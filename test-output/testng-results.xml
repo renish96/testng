@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-26T13:46:53 IST" name="Default suite" finished-at="2023-06-26T13:47:07 IST" duration-ms="13676">
+    <groups>
+    </groups>
+    <test started-at="2023-06-26T13:46:53 IST" name="Default test" finished-at="2023-06-26T13:47:07 IST" duration-ms="13676">
+      <class name="com.booking.AdactinBooking">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.booking.AdactinBooking@5032714f]" started-at="2023-06-26T13:46:41 IST" name="browserLaunch" finished-at="2023-06-26T13:46:53 IST" duration-ms="12688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="hotelBooking()[pri:0, instance:com.booking.AdactinBooking@5032714f]" started-at="2023-06-26T13:46:53 IST" name="hotelBooking" finished-at="2023-06-26T13:47:07 IST" duration-ms="13646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotelBooking -->
+      </class> <!-- com.booking.AdactinBooking -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
